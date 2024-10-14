@@ -33,7 +33,7 @@ The goal is to provide accurate occupancy forecasts that can assist hotel manage
 - prophet (not necessary, used only for idea testing)
 
 ## Installation
-1. Clone the repository: git clone https://github.com/IvanDzanija/hotel_occupancy.git
+1. Clone the repository: git clone https://github.com/IvanDzanija/hotelOccupancy.git
 2. Install the required dependencies: pip install -r requirements.txt 
 
 ## Data
